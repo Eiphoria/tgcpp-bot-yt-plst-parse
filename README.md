@@ -6,3 +6,7 @@ Also for properly working, need to setup OS env variables:
 $YT_API_KEY - youtube API key))
 
 $BIT_TOKEN - telegram bot token.
+
+Dependencies and instalation guide:
+
+    Declared in https://github.com/reo7sp/tgbot-cpp
