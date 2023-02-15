@@ -10,3 +10,4 @@ $BIT_TOKEN - telegram bot token.
 Dependencies and instalation guide:
 
     Declared in https://github.com/reo7sp/tgbot-cpp
+    And boost-json(boost =>1.76)
